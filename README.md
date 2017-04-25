@@ -3,6 +3,8 @@ Test project showing that [Red Bridge interface implementation example](https://
 
 run example (requires java and maven):
 ```make
+git clone https://github.com/botchniaque/embed-jruby-test.git
+cd embed-jruby-test
 make run
 ```
 using the JRuby `9.1.8.0` to run the example throws such an error: 
